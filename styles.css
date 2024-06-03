@@ -1,0 +1,44 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header, footer {
+    background-color: #222;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+header h1 {
+    font-family: 'Oswald', sans-serif;
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+section h2 {
+    font-family: 'Oswald', sans-serif;
+}
+
+iframe {
+    max-width: 100%;
+    border: none;
+}
+
+footer p {
+    font-size: 0.9em;
+}
